@@ -1,5 +1,7 @@
 ---
-# Set the version of Node.js to install ("12.x", "13.x", "14.x", "15.x", etc.).
+# Set the version of Node.js to install.
+# Can be either a major version ("12.x", "16.x", "18.x", "20.x", etc.)
+# or a specific version ("18.20.2", "20.11.0", etc.).
 # Version numbers from Nodesource: https://github.com/nodesource/distributions
 nodejs_version: "16.x"
 
